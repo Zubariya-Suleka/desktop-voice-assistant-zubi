@@ -189,5 +189,5 @@ if __name__ == "__main__":
             os.system('shutdown -s')
 
         elif "offline" in query:
-            speak("Goodbye")
+            speak("Goodbye. Hope you had good assistance")
             quit()
